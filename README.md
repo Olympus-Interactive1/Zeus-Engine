@@ -39,5 +39,4 @@
 
 ---
 
-## 🏗️ System Architecture
-
+##**Some reference photos for the application. These photos were generated with AI; we are just sharing them to give you an idea.**
